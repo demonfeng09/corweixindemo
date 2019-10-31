@@ -1,0 +1,37 @@
+{
+    "testcase1": {
+        "req":
+        {
+            "userid": "zhangshan",
+            "name": "张山",
+            "alias": "jackzhang",
+            "mobile": "18913215421",
+            "department": [
+                4,
+                5
+                ],
+            "order": [
+                10,
+                40
+                ],
+            "position": "产品经理",
+            "gender": "1",
+            "email": "zhangshan@gzdev.com",
+            "is_leader_in_dept": [
+                1,
+                0
+                ],
+            "enable": 1,
+            "avatar_mediaid": "2H7WcDi7LePkFScz--XPyfxVH2EmbIKzleDm_N8HV7uU",
+            "telephone": "020-123456",
+            "address": "广州市海珠区新港中路",
+            "to_invite": true,
+            "external_position": "高级产品经理"
+        },
+        "res":{
+            "errcode":"0",
+            "errmsg":"Created10"
+        }
+}
+}
+

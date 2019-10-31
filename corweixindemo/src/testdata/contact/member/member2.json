@@ -1,0 +1,58 @@
+{
+   "testcase1": {
+        "userid": "zhangsan",
+        "name": "张三",
+        "alias": "jackzhang",
+        "mobile": "15913215421",
+        "department": [
+            4,
+            5
+        ],
+        "order": [
+            10,
+            40
+        ],
+        "position": "产品经理",
+        "gender": "1",
+        "email": "zhangsan@gzdev.com",
+        "is_leader_in_dept": [
+            1,
+            0
+        ],
+        "enable": 1,
+        "avatar_mediaid": "2H7WcDi7LePkFScz--XPyfxVH2EmbIKzleDm_N8HV7uU",
+        "telephone": "020-123456",
+        "address": "广州市海珠区新港中路",
+        "to_invite": true,
+        "external_position": "高级产品经理"
+    },
+
+    "testcase2": {
+        "userid": "zhangsan",
+        "name": "张三",
+        "alias": "jackzhang",
+        "mobile": "15913215421",
+        "department": [
+            4,
+            5
+        ],
+        "order": [
+            10,
+            40
+        ],
+        "position": "产品经理",
+        "gender": "1",
+        "email": "zhangsan@gzdev.com",
+        "is_leader_in_dept": [
+            1,
+            0
+        ],
+        "enable": 1,
+        "avatar_mediaid": "2H7WcDi7LePkFScz--XPyfxVH2EmbIKzleDm_N8HV7uU",
+        "telephone": "020-123456",
+        "address": "广州市海珠区新港中路",
+        "to_invite": true,
+        "external_position": "高级产品经理"
+    }
+}
+

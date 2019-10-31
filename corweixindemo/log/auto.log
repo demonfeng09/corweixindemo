@@ -1,0 +1,486 @@
+2019-10-22 17:33:57,023 root INFO runner:17 Start to execute automation cases
+2019-10-22 17:40:48,164 root INFO runner:17 Start to execute automation cases
+2019-10-22 17:41:00,110 root INFO runner:17 Start to execute automation cases
+2019-10-22 17:49:39,572 root INFO runner:17 Start to execute automation cases
+2019-10-22 17:50:43,509 root INFO runner:18 Start to execute automation cases
+2019-10-22 17:54:24,703 root INFO runner:17 Start to execute automation cases
+2019-10-22 18:00:17,471 root INFO runner:17 Start to execute automation cases
+2019-10-22 18:00:37,147 root INFO runner:17 Start to execute automation cases
+2019-10-22 18:01:00,696 root INFO runner:17 Start to execute automation cases
+2019-10-22 18:01:01,571 root INFO baseapi:8 init base api interfase
+2019-10-22 18:01:01,572 root INFO depmanagment:9 Init department management API
+2019-10-22 18:01:01,582 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-22 18:01:02,584 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-22 18:01:02,592 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-22 18:01:02,909 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/create?access_token=hgrqyxMDutzrf2jmNhccHTeFvmAfR8i6FNiYSzF625n4gXe49Az1CJUnNF4LTuw-xVvOVv92Z1obIR7mczAcyevEt5y3d5GZUb0UX7vMlgliEDoU2WRgPOt9pZK21_stV7cnWm90TZ-CZ712fCgCCI-S4Nft08Coi1y8_7p_T2N_WF714iCwlfCCGtVobQi3HhLGnknVTQ8_PwDrYc-zZw HTTP/1.1" 200 39
+2019-10-23 13:35:16,665 root INFO runner:17 Start to execute automation cases
+2019-10-23 13:35:17,841 root INFO baseapi:8 init base api interfase
+2019-10-23 13:35:17,841 root INFO depmanagment:9 Init department management API
+2019-10-23 13:35:17,856 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-23 13:35:19,345 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-23 13:35:19,356 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-23 13:35:19,681 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/create?access_token=Azw-nyvDm90SMbBGedxKoHOiWBhCebdAKL56xlj20So_maViGAAu84ZVHN2HHh9fBrGLps1obggFFGFWrjGJiCDa6v139I0dfY96CqMoyCSMUfOjpOv4ZgKMdOvUx5zs6ZWhOzIngxhgcY226ieSa1LIVlzj5ny2VQ4SbZ2e4lc4zLSfFimAwTLzlRBRHJ7t1jFywVFyi0uvBftSogVgsQ HTTP/1.1" 200 196
+2019-10-23 13:44:11,939 root INFO runner:17 Start to execute automation cases
+2019-10-23 13:44:12,808 root INFO baseapi:8 init base api interfase
+2019-10-23 13:44:12,809 root INFO depmanagment:9 Init department management API
+2019-10-23 13:44:12,821 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-23 13:44:13,625 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA&corpid=wwd5dcde75621431c4 HTTP/1.1" 200 277
+2019-10-23 13:44:13,651 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-23 13:44:14,041 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/create?access_token=Azw-nyvDm90SMbBGedxKoHOiWBhCebdAKL56xlj20So_maViGAAu84ZVHN2HHh9fBrGLps1obggFFGFWrjGJiCDa6v139I0dfY96CqMoyCSMUfOjpOv4ZgKMdOvUx5zs6ZWhOzIngxhgcY226ieSa1LIVlzj5ny2VQ4SbZ2e4lc4zLSfFimAwTLzlRBRHJ7t1jFywVFyi0uvBftSogVgsQ HTTP/1.1" 200 39
+2019-10-23 13:53:50,292 root INFO runner:17 Start to execute automation cases
+2019-10-23 13:53:51,253 root INFO baseapi:8 init base api interfase
+2019-10-23 13:53:51,253 root INFO depmanagment:9 Init department management API
+2019-10-23 13:53:51,265 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-23 13:53:52,116 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA&corpid=wwd5dcde75621431c4 HTTP/1.1" 200 277
+2019-10-23 13:53:52,125 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-23 13:53:52,432 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/create?access_token=Azw-nyvDm90SMbBGedxKoHOiWBhCebdAKL56xlj20So_maViGAAu84ZVHN2HHh9fBrGLps1obggFFGFWrjGJiCDa6v139I0dfY96CqMoyCSMUfOjpOv4ZgKMdOvUx5zs6ZWhOzIngxhgcY226ieSa1LIVlzj5ny2VQ4SbZ2e4lc4zLSfFimAwTLzlRBRHJ7t1jFywVFyi0uvBftSogVgsQ HTTP/1.1" 200 196
+2019-10-23 14:37:48,882 root INFO runner:17 Start to execute automation cases
+2019-10-23 14:37:49,845 root INFO baseapi:8 init base api interfase
+2019-10-23 14:37:49,845 root INFO depmanagment_update:10 Init department update management API
+2019-10-23 14:37:49,858 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-23 14:37:50,642 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-23 14:37:50,650 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-23 14:37:50,976 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/update?access_token=Azw-nyvDm90SMbBGedxKoHOiWBhCebdAKL56xlj20So_maViGAAu84ZVHN2HHh9fBrGLps1obggFFGFWrjGJiCDa6v139I0dfY96CqMoyCSMUfOjpOv4ZgKMdOvUx5zs6ZWhOzIngxhgcY226ieSa1LIVlzj5ny2VQ4SbZ2e4lc4zLSfFimAwTLzlRBRHJ7t1jFywVFyi0uvBftSogVgsQ HTTP/1.1" 200 32
+2019-10-23 14:39:59,760 root INFO runner:19 Start to execute automation cases
+2019-10-23 14:40:00,438 root INFO baseapi:8 init base api interfase
+2019-10-23 14:40:00,439 root INFO depmanagment_update:10 Init department update management API
+2019-10-23 14:40:00,450 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-23 14:40:01,146 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA&corpid=wwd5dcde75621431c4 HTTP/1.1" 200 277
+2019-10-23 14:40:01,153 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-23 14:40:01,706 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/update?access_token=Azw-nyvDm90SMbBGedxKoHOiWBhCebdAKL56xlj20So_maViGAAu84ZVHN2HHh9fBrGLps1obggFFGFWrjGJiCDa6v139I0dfY96CqMoyCSMUfOjpOv4ZgKMdOvUx5zs6ZWhOzIngxhgcY226ieSa1LIVlzj5ny2VQ4SbZ2e4lc4zLSfFimAwTLzlRBRHJ7t1jFywVFyi0uvBftSogVgsQ HTTP/1.1" 200 32
+2019-10-23 14:41:22,692 root INFO runner:19 Start to execute automation cases
+2019-10-23 14:41:23,353 root INFO baseapi:8 init base api interfase
+2019-10-23 14:41:23,353 root INFO depmanagment_update:10 Init department update management API
+2019-10-23 14:41:23,365 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-23 14:41:24,072 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-23 14:41:24,081 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-23 14:41:24,409 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/update?access_token=Azw-nyvDm90SMbBGedxKoHOiWBhCebdAKL56xlj20So_maViGAAu84ZVHN2HHh9fBrGLps1obggFFGFWrjGJiCDa6v139I0dfY96CqMoyCSMUfOjpOv4ZgKMdOvUx5zs6ZWhOzIngxhgcY226ieSa1LIVlzj5ny2VQ4SbZ2e4lc4zLSfFimAwTLzlRBRHJ7t1jFywVFyi0uvBftSogVgsQ HTTP/1.1" 200 32
+2019-10-23 14:42:29,109 root INFO runner:19 Start to execute automation cases
+2019-10-23 14:42:29,764 root INFO baseapi:8 init base api interfase
+2019-10-23 14:42:29,765 root INFO depmanagment_update:10 Init department update management API
+2019-10-23 14:42:29,776 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-23 14:42:30,530 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-23 14:42:30,539 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-23 14:42:30,828 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/update?access_token=Azw-nyvDm90SMbBGedxKoHOiWBhCebdAKL56xlj20So_maViGAAu84ZVHN2HHh9fBrGLps1obggFFGFWrjGJiCDa6v139I0dfY96CqMoyCSMUfOjpOv4ZgKMdOvUx5zs6ZWhOzIngxhgcY226ieSa1LIVlzj5ny2VQ4SbZ2e4lc4zLSfFimAwTLzlRBRHJ7t1jFywVFyi0uvBftSogVgsQ HTTP/1.1" 200 32
+2019-10-23 14:44:41,631 root INFO runner:19 Start to execute automation cases
+2019-10-23 14:44:42,278 root INFO baseapi:8 init base api interfase
+2019-10-23 14:44:42,278 root INFO depmanagment_update:10 Init department update management API
+2019-10-23 14:44:42,289 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-23 14:44:42,958 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-23 14:44:42,968 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-23 14:44:43,245 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/update?access_token=Azw-nyvDm90SMbBGedxKoHOiWBhCebdAKL56xlj20So_maViGAAu84ZVHN2HHh9fBrGLps1obggFFGFWrjGJiCDa6v139I0dfY96CqMoyCSMUfOjpOv4ZgKMdOvUx5zs6ZWhOzIngxhgcY226ieSa1LIVlzj5ny2VQ4SbZ2e4lc4zLSfFimAwTLzlRBRHJ7t1jFywVFyi0uvBftSogVgsQ HTTP/1.1" 200 198
+2019-10-23 15:59:45,884 root INFO runner:19 Start to execute automation cases
+2019-10-23 15:59:46,860 root INFO baseapi:8 init base api interfase
+2019-10-23 15:59:46,861 root INFO depmanagment:9 Init department management API
+2019-10-23 15:59:46,882 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-23 15:59:47,776 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA&corpid=wwd5dcde75621431c4 HTTP/1.1" 200 277
+2019-10-23 15:59:47,786 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-23 15:59:48,125 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/create?access_token=-3cePiFJayEXTBQiDKrwpETRM03ZrOwdO1wYRtLtF5GQu80TiLoVojthEC5iV3VuTjk6svOkFdxelbw7c8S6HEQDkIGvBJ9PbhwCHi2EFUckA1ytic75_-FCzgihXP_GGAyHJTHC8di-fv52ywjJHpcaUVN-5ojoy4GyFF-qRgQ8mBdRfQW5YcfW8xujMHKp6s3YlLgd0co0gU_5XxV1Pw HTTP/1.1" 200 39
+2019-10-23 15:59:48,133 root INFO baseapi:8 init base api interfase
+2019-10-23 15:59:48,133 root INFO depmanagment:9 Init department management API
+2019-10-23 15:59:48,137 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-23 15:59:48,437 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA&corpid=wwd5dcde75621431c4 HTTP/1.1" 200 277
+2019-10-23 15:59:48,444 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-23 15:59:48,712 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/create?access_token=-3cePiFJayEXTBQiDKrwpETRM03ZrOwdO1wYRtLtF5GQu80TiLoVojthEC5iV3VuTjk6svOkFdxelbw7c8S6HEQDkIGvBJ9PbhwCHi2EFUckA1ytic75_-FCzgihXP_GGAyHJTHC8di-fv52ywjJHpcaUVN-5ojoy4GyFF-qRgQ8mBdRfQW5YcfW8xujMHKp6s3YlLgd0co0gU_5XxV1Pw HTTP/1.1" 200 39
+2019-10-23 15:59:48,718 root INFO baseapi:8 init base api interfase
+2019-10-23 15:59:48,719 root INFO depmanagment:9 Init department management API
+2019-10-23 15:59:48,723 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-23 15:59:49,029 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA&corpid=wwd5dcde75621431c4 HTTP/1.1" 200 277
+2019-10-23 15:59:49,038 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-23 15:59:49,323 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/create?access_token=-3cePiFJayEXTBQiDKrwpETRM03ZrOwdO1wYRtLtF5GQu80TiLoVojthEC5iV3VuTjk6svOkFdxelbw7c8S6HEQDkIGvBJ9PbhwCHi2EFUckA1ytic75_-FCzgihXP_GGAyHJTHC8di-fv52ywjJHpcaUVN-5ojoy4GyFF-qRgQ8mBdRfQW5YcfW8xujMHKp6s3YlLgd0co0gU_5XxV1Pw HTTP/1.1" 200 39
+2019-10-24 15:29:32,794 root INFO runner:19 Start to execute automation cases
+2019-10-24 15:30:08,744 root INFO runner:19 Start to execute automation cases
+2019-10-24 15:30:09,421 root INFO membermanagment:12 Init member management API
+2019-10-24 15:32:34,584 root INFO runner:19 Start to execute automation cases
+2019-10-24 15:32:35,167 root INFO membermanagment:12 Init member management API
+2019-10-24 15:34:13,364 root INFO runner:19 Start to execute automation cases
+2019-10-24 15:34:13,992 root INFO membermanagment:12 Init member management API
+2019-10-24 15:34:13,992 root INFO baseapi:11 init base api interfase
+2019-10-24 15:49:58,520 root INFO runner:19 Start to execute automation cases
+2019-10-24 15:49:59,272 root INFO membermanagment:12 Init member management API
+2019-10-24 15:49:59,273 root INFO baseapi:11 init base api interfase
+2019-10-24 15:49:59,274 root DEBUG baseapi:35 json_object===={'address': '广州市海珠区新港中路', 'extattr': {'attrs': [{'text': {'value': '文本'}, 'name': '文本名称', 'type': 0}, {'web': {'url': 'http://www.test.com', 'title': '标题'}, 'name': '网页名称', 'type': 1}]}, 'position': '产品经理', 'avatar_mediaid': '2H7WcDi7LePkFScz--XPyfxVH2EmbIKzleDm_N8HV7uU', 'email': 'zhangsan@gzdev.com', 'telephone': '020-123456', 'is_leader_in_dept': [1, 0], 'mobile': '15913215421', 'to_invite': True, 'alias': 'jackzhang', 'external_position': '高级产品经理', 'order': [10, 40], 'userid': 'zhangsan', 'enable': 1, 'name': '张三', 'department': [4, 5], 'gender': '1', 'external_profile': {'external_corp_name': '企业简称', 'external_attr': [{'text': {'value': '文本'}, 'name': '文本名称', 'type': 0}, {'web': {'url': 'http://www.test.com', 'title': '标题'}, 'name': '网页名称', 'type': 1}, {'miniprogram': {'pagepath': '/index', 'appid': 'wx8bd80126147df384', 'title': 'my miniprogram'}, 'name': '测试app', 'type': 2}]}}
+2019-10-24 15:50:55,573 root INFO runner:19 Start to execute automation cases
+2019-10-24 15:50:56,356 root INFO membermanagment:12 Init member management API
+2019-10-24 15:50:56,356 root INFO baseapi:11 init base api interfase
+2019-10-24 15:50:56,357 root DEBUG baseapi:35 json_object===={'email': 'zhangsan@gzdev.com', 'order': [10, 40], 'is_leader_in_dept': [1, 0], 'mobile': '15913215421', 'position': '产品经理', 'userid': 'zhangsan', 'enable': 1, 'alias': 'jackzhang', 'address': '广州市海珠区新港中路', 'gender': '1', 'department': [4, 5], 'telephone': '020-123456', 'to_invite': True, 'external_position': '高级产品经理', 'extattr': {'attrs': [{'type': 0, 'text': {'value': '文本'}, 'name': '文本名称'}, {'type': 1, 'web': {'url': 'http://www.test.com', 'title': '标题'}, 'name': '网页名称'}]}, 'avatar_mediaid': '2H7WcDi7LePkFScz--XPyfxVH2EmbIKzleDm_N8HV7uU', 'external_profile': {'external_corp_name': '企业简称', 'external_attr': [{'type': 0, 'text': {'value': '文本'}, 'name': '文本名称'}, {'type': 1, 'web': {'url': 'http://www.test.com', 'title': '标题'}, 'name': '网页名称'}, {'miniprogram': {'appid': 'wx8bd80126147df384', 'pagepath': '/index', 'title': 'my miniprogram'}, 'type': 2, 'name': '测试app'}]}, 'name': '张三'}
+2019-10-24 15:50:56,375 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 15:50:57,265 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-24 15:50:57,282 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 15:50:57,486 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?bVzP1ro5omOIdoubsnNKAYkTtNj_iILOts7GdgNkCSVRhVHbRXjiHxmFq-1PHwoe1eZ1-qjqnOi4cQwoQkxeK3WIrTgj-gP2dpPbV4O-yopay-5ezYbqJs9C6_j-rHrNMVJXftHOiHHe-1P7KFdKPE0aDE3313Esr991FY7rzMmCx9OH3q0F5rKlyVeQ-6owGinSVxiCl4-0Ij84BsjSRw HTTP/1.1" 200 239
+2019-10-24 15:53:09,680 root INFO runner:19 Start to execute automation cases
+2019-10-24 15:53:10,265 root INFO membermanagment:12 Init member management API
+2019-10-24 15:53:10,265 root INFO baseapi:11 init base api interfase
+2019-10-24 15:53:10,266 root DEBUG baseapi:35 json_object===={'to_invite': True, 'userid': 'zhangsan', 'email': 'zhangsan@gzdev.com', 'name': '张三', 'mobile': '15913215421', 'order': [10, 40], 'department': [4, 5], 'telephone': '020-123456', 'external_position': '高级产品经理', 'enable': 1, 'alias': 'jackzhang', 'position': '产品经理', 'gender': '1', 'is_leader_in_dept': [1, 0], 'address': '广州市海珠区新港中路', 'avatar_mediaid': '2H7WcDi7LePkFScz--XPyfxVH2EmbIKzleDm_N8HV7uU'}
+2019-10-24 15:53:10,276 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 15:53:11,029 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA&corpid=wwd5dcde75621431c4 HTTP/1.1" 200 277
+2019-10-24 15:53:11,054 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 15:53:11,277 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?bVzP1ro5omOIdoubsnNKAYkTtNj_iILOts7GdgNkCSVRhVHbRXjiHxmFq-1PHwoe1eZ1-qjqnOi4cQwoQkxeK3WIrTgj-gP2dpPbV4O-yopay-5ezYbqJs9C6_j-rHrNMVJXftHOiHHe-1P7KFdKPE0aDE3313Esr991FY7rzMmCx9OH3q0F5rKlyVeQ-6owGinSVxiCl4-0Ij84BsjSRw HTTP/1.1" 200 198
+2019-10-24 15:54:47,310 root INFO runner:19 Start to execute automation cases
+2019-10-24 15:54:48,260 root INFO membermanagment:12 Init member management API
+2019-10-24 15:54:48,261 root INFO baseapi:11 init base api interfase
+2019-10-24 15:54:48,262 root DEBUG baseapi:35 json_object===={'alias': 'jackzhang', 'address': '广州市海珠区新港中路', 'mobile': '15913215421', 'email': 'zhangsan@gzdev.com', 'position': '产品经理', 'telephone': '020-123456', 'external_position': '高级产品经理', 'order': [10, 40], 'is_leader_in_dept': [1, 0], 'department': [4, 5], 'avatar_mediaid': '2H7WcDi7LePkFScz--XPyfxVH2EmbIKzleDm_N8HV7uU', 'to_invite': True, 'enable': 1, 'gender': '1', 'name': '张三', 'userid': 'zhangsan'}
+2019-10-24 15:54:48,274 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 15:54:49,193 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-24 15:54:49,207 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 15:54:49,542 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?bVzP1ro5omOIdoubsnNKAYkTtNj_iILOts7GdgNkCSVRhVHbRXjiHxmFq-1PHwoe1eZ1-qjqnOi4cQwoQkxeK3WIrTgj-gP2dpPbV4O-yopay-5ezYbqJs9C6_j-rHrNMVJXftHOiHHe-1P7KFdKPE0aDE3313Esr991FY7rzMmCx9OH3q0F5rKlyVeQ-6owGinSVxiCl4-0Ij84BsjSRw HTTP/1.1" 200 198
+2019-10-24 15:58:57,007 root INFO runner:19 Start to execute automation cases
+2019-10-24 15:58:57,625 root INFO membermanagment:12 Init member management API
+2019-10-24 15:58:57,625 root INFO baseapi:11 init base api interfase
+2019-10-24 15:58:57,626 root DEBUG baseapi:35 json_object===={'alias': 'jackzhang', 'email': 'zhangsan@gzdev.com', 'gender': '1', 'avatar_mediaid': '2H7WcDi7LePkFScz--XPyfxVH2EmbIKzleDm_N8HV7uU', 'external_position': '高级产品经理', 'department': [4, 5], 'address': '广州市海珠区新港中路', 'order': [10, 40], 'userid': 'zhangsan', 'mobile': '15913215421', 'is_leader_in_dept': [1, 0], 'to_invite': True, 'enable': 1, 'position': '产品经理', 'telephone': '020-123456', 'name': '张三'}
+2019-10-24 15:58:57,637 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 15:58:59,093 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA&corpid=wwd5dcde75621431c4 HTTP/1.1" 200 277
+2019-10-24 15:58:59,116 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 15:59:00,113 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?bVzP1ro5omOIdoubsnNKAYkTtNj_iILOts7GdgNkCSVRhVHbRXjiHxmFq-1PHwoe1eZ1-qjqnOi4cQwoQkxeK3WIrTgj-gP2dpPbV4O-yopay-5ezYbqJs9C6_j-rHrNMVJXftHOiHHe-1P7KFdKPE0aDE3313Esr991FY7rzMmCx9OH3q0F5rKlyVeQ-6owGinSVxiCl4-0Ij84BsjSRw HTTP/1.1" 200 198
+2019-10-24 15:59:00,120 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 15:59:01,333 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA&corpid=wwd5dcde75621431c4 HTTP/1.1" 200 277
+2019-10-24 16:03:56,147 root INFO runner:19 Start to execute automation cases
+2019-10-24 16:03:56,748 root INFO membermanagment:12 Init member management API
+2019-10-24 16:03:56,748 root INFO baseapi:11 init base api interfase
+2019-10-24 16:03:56,749 root DEBUG baseapi:34 json_object===={'to_invite': True, 'is_leader_in_dept': [1, 0], 'name': '张三', 'gender': '1', 'telephone': '020-123456', 'avatar_mediaid': '2H7WcDi7LePkFScz--XPyfxVH2EmbIKzleDm_N8HV7uU', 'position': '产品经理', 'mobile': '15913215421', 'enable': 1, 'department': [4, 5], 'userid': 'zhangsan', 'email': 'zhangsan@gzdev.com', 'alias': 'jackzhang', 'address': '广州市海珠区新港中路', 'order': [10, 40], 'external_position': '高级产品经理'}
+2019-10-24 16:03:56,759 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:03:57,661 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-24 16:03:57,692 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:03:57,928 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?bVzP1ro5omOIdoubsnNKAYkTtNj_iILOts7GdgNkCSVRhVHbRXjiHxmFq-1PHwoe1eZ1-qjqnOi4cQwoQkxeK3WIrTgj-gP2dpPbV4O-yopay-5ezYbqJs9C6_j-rHrNMVJXftHOiHHe-1P7KFdKPE0aDE3313Esr991FY7rzMmCx9OH3q0F5rKlyVeQ-6owGinSVxiCl4-0Ij84BsjSRw HTTP/1.1" 200 198
+2019-10-24 16:03:57,948 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:03:58,269 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-24 16:05:48,919 root INFO runner:19 Start to execute automation cases
+2019-10-24 16:05:49,536 root INFO membermanagment:12 Init member management API
+2019-10-24 16:05:49,536 root INFO baseapi:11 init base api interfase
+2019-10-24 16:05:49,538 root DEBUG baseapi:35 json_object===={'name': '张三', 'telephone': '020-123456', 'department': [4, 5], 'email': 'zhangsan@gzdev.com', 'address': '广州市海珠区新港中路', 'to_invite': True, 'mobile': '15913215421', 'alias': 'jackzhang', 'is_leader_in_dept': [1, 0], 'external_position': '高级产品经理', 'order': [10, 40], 'position': '产品经理', 'gender': '1', 'enable': 1, 'avatar_mediaid': '2H7WcDi7LePkFScz--XPyfxVH2EmbIKzleDm_N8HV7uU', 'userid': 'zhangsan'}
+2019-10-24 16:05:49,555 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:05:50,350 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-24 16:05:50,363 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:05:50,567 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?bVzP1ro5omOIdoubsnNKAYkTtNj_iILOts7GdgNkCSVRhVHbRXjiHxmFq-1PHwoe1eZ1-qjqnOi4cQwoQkxeK3WIrTgj-gP2dpPbV4O-yopay-5ezYbqJs9C6_j-rHrNMVJXftHOiHHe-1P7KFdKPE0aDE3313Esr991FY7rzMmCx9OH3q0F5rKlyVeQ-6owGinSVxiCl4-0Ij84BsjSRw HTTP/1.1" 200 198
+2019-10-24 16:11:17,571 root INFO runner:19 Start to execute automation cases
+2019-10-24 16:11:18,318 root INFO membermanagment:12 Init member management API
+2019-10-24 16:11:18,319 root INFO baseapi:11 init base api interfase
+2019-10-24 16:11:18,320 root DEBUG baseapi:35 json_object===={'order': [10, 40], 'position': '产品经理', 'name': '张三', 'telephone': '020-123456', 'alias': 'jackzhang', 'mobile': '15913215421', 'external_position': '高级产品经理', 'userid': 'zhangsan', 'to_invite': True, 'address': '广州市海珠区新港中路', 'department': [4, 5], 'avatar_mediaid': '2H7WcDi7LePkFScz--XPyfxVH2EmbIKzleDm_N8HV7uU', 'gender': '1', 'enable': 1, 'is_leader_in_dept': [1, 0], 'email': 'zhangsan@gzdev.com'}
+2019-10-24 16:11:18,331 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:11:19,178 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-24 16:11:19,187 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:11:19,551 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?bVzP1ro5omOIdoubsnNKAYkTtNj_iILOts7GdgNkCSVRhVHbRXjiHxmFq-1PHwoe1eZ1-qjqnOi4cQwoQkxeK3WIrTgj-gP2dpPbV4O-yopay-5ezYbqJs9C6_j-rHrNMVJXftHOiHHe-1P7KFdKPE0aDE3313Esr991FY7rzMmCx9OH3q0F5rKlyVeQ-6owGinSVxiCl4-0Ij84BsjSRw HTTP/1.1" 200 198
+2019-10-24 16:12:29,008 root INFO runner:19 Start to execute automation cases
+2019-10-24 16:12:29,627 root INFO baseapi:11 init base api interfase
+2019-10-24 16:12:29,627 root INFO depmanagment:12 Init department management API
+2019-10-24 16:12:29,637 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:12:30,417 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-24 16:12:30,436 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:12:30,744 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/create?access_token=bVzP1ro5omOIdoubsnNKAYkTtNj_iILOts7GdgNkCSVRhVHbRXjiHxmFq-1PHwoe1eZ1-qjqnOi4cQwoQkxeK3WIrTgj-gP2dpPbV4O-yopay-5ezYbqJs9C6_j-rHrNMVJXftHOiHHe-1P7KFdKPE0aDE3313Esr991FY7rzMmCx9OH3q0F5rKlyVeQ-6owGinSVxiCl4-0Ij84BsjSRw HTTP/1.1" 200 39
+2019-10-24 16:12:31,007 root INFO baseapi:11 init base api interfase
+2019-10-24 16:12:31,008 root INFO depmanagment:12 Init department management API
+2019-10-24 16:12:31,012 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:12:31,366 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-24 16:12:31,374 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:12:31,677 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/create?access_token=bVzP1ro5omOIdoubsnNKAYkTtNj_iILOts7GdgNkCSVRhVHbRXjiHxmFq-1PHwoe1eZ1-qjqnOi4cQwoQkxeK3WIrTgj-gP2dpPbV4O-yopay-5ezYbqJs9C6_j-rHrNMVJXftHOiHHe-1P7KFdKPE0aDE3313Esr991FY7rzMmCx9OH3q0F5rKlyVeQ-6owGinSVxiCl4-0Ij84BsjSRw HTTP/1.1" 200 39
+2019-10-24 16:12:31,727 root INFO baseapi:11 init base api interfase
+2019-10-24 16:12:31,727 root INFO depmanagment:12 Init department management API
+2019-10-24 16:12:31,732 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:12:32,082 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-24 16:12:32,108 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:12:32,458 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/create?access_token=bVzP1ro5omOIdoubsnNKAYkTtNj_iILOts7GdgNkCSVRhVHbRXjiHxmFq-1PHwoe1eZ1-qjqnOi4cQwoQkxeK3WIrTgj-gP2dpPbV4O-yopay-5ezYbqJs9C6_j-rHrNMVJXftHOiHHe-1P7KFdKPE0aDE3313Esr991FY7rzMmCx9OH3q0F5rKlyVeQ-6owGinSVxiCl4-0Ij84BsjSRw HTTP/1.1" 200 39
+2019-10-24 16:13:40,787 root INFO runner:19 Start to execute automation cases
+2019-10-24 16:13:41,403 root INFO baseapi:11 init base api interfase
+2019-10-24 16:13:41,403 root INFO depmanagment:12 Init department management API
+2019-10-24 16:13:41,413 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:13:42,055 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA&corpid=wwd5dcde75621431c4 HTTP/1.1" 200 277
+2019-10-24 16:13:42,063 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:13:42,303 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/create?access_token=bVzP1ro5omOIdoubsnNKAYkTtNj_iILOts7GdgNkCSVRhVHbRXjiHxmFq-1PHwoe1eZ1-qjqnOi4cQwoQkxeK3WIrTgj-gP2dpPbV4O-yopay-5ezYbqJs9C6_j-rHrNMVJXftHOiHHe-1P7KFdKPE0aDE3313Esr991FY7rzMmCx9OH3q0F5rKlyVeQ-6owGinSVxiCl4-0Ij84BsjSRw HTTP/1.1" 200 196
+2019-10-24 16:13:42,558 root INFO baseapi:11 init base api interfase
+2019-10-24 16:13:42,558 root INFO depmanagment:12 Init department management API
+2019-10-24 16:13:42,562 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:13:42,910 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA&corpid=wwd5dcde75621431c4 HTTP/1.1" 200 277
+2019-10-24 16:13:42,932 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:13:43,254 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/create?access_token=bVzP1ro5omOIdoubsnNKAYkTtNj_iILOts7GdgNkCSVRhVHbRXjiHxmFq-1PHwoe1eZ1-qjqnOi4cQwoQkxeK3WIrTgj-gP2dpPbV4O-yopay-5ezYbqJs9C6_j-rHrNMVJXftHOiHHe-1P7KFdKPE0aDE3313Esr991FY7rzMmCx9OH3q0F5rKlyVeQ-6owGinSVxiCl4-0Ij84BsjSRw HTTP/1.1" 200 196
+2019-10-24 16:13:43,286 root INFO baseapi:11 init base api interfase
+2019-10-24 16:13:43,286 root INFO depmanagment:12 Init department management API
+2019-10-24 16:13:43,291 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:13:43,634 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA&corpid=wwd5dcde75621431c4 HTTP/1.1" 200 277
+2019-10-24 16:13:43,644 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:13:43,932 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/create?access_token=bVzP1ro5omOIdoubsnNKAYkTtNj_iILOts7GdgNkCSVRhVHbRXjiHxmFq-1PHwoe1eZ1-qjqnOi4cQwoQkxeK3WIrTgj-gP2dpPbV4O-yopay-5ezYbqJs9C6_j-rHrNMVJXftHOiHHe-1P7KFdKPE0aDE3313Esr991FY7rzMmCx9OH3q0F5rKlyVeQ-6owGinSVxiCl4-0Ij84BsjSRw HTTP/1.1" 200 196
+2019-10-24 16:15:51,372 root INFO runner:19 Start to execute automation cases
+2019-10-24 16:15:52,009 root INFO baseapi:11 init base api interfase
+2019-10-24 16:15:52,009 root INFO depmanagment:12 Init department management API
+2019-10-24 16:15:52,284 root INFO baseapi:11 init base api interfase
+2019-10-24 16:15:52,284 root INFO depmanagment:12 Init department management API
+2019-10-24 16:15:52,309 root INFO baseapi:11 init base api interfase
+2019-10-24 16:15:52,310 root INFO depmanagment:12 Init department management API
+2019-10-24 16:16:40,795 root INFO runner:19 Start to execute automation cases
+2019-10-24 16:16:41,448 root INFO baseapi:11 init base api interfase
+2019-10-24 16:16:41,449 root INFO depmanagment:12 Init department management API
+2019-10-24 16:16:41,463 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:16:42,245 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA&corpid=wwd5dcde75621431c4 HTTP/1.1" 200 277
+2019-10-24 16:16:42,270 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:16:42,583 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/create?access_token=bVzP1ro5omOIdoubsnNKAYkTtNj_iILOts7GdgNkCSVRhVHbRXjiHxmFq-1PHwoe1eZ1-qjqnOi4cQwoQkxeK3WIrTgj-gP2dpPbV4O-yopay-5ezYbqJs9C6_j-rHrNMVJXftHOiHHe-1P7KFdKPE0aDE3313Esr991FY7rzMmCx9OH3q0F5rKlyVeQ-6owGinSVxiCl4-0Ij84BsjSRw HTTP/1.1" 200 196
+2019-10-24 16:16:42,835 root INFO baseapi:11 init base api interfase
+2019-10-24 16:16:42,836 root INFO depmanagment:12 Init department management API
+2019-10-24 16:16:42,840 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:16:43,156 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA&corpid=wwd5dcde75621431c4 HTTP/1.1" 200 277
+2019-10-24 16:16:43,180 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:16:43,486 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/create?access_token=bVzP1ro5omOIdoubsnNKAYkTtNj_iILOts7GdgNkCSVRhVHbRXjiHxmFq-1PHwoe1eZ1-qjqnOi4cQwoQkxeK3WIrTgj-gP2dpPbV4O-yopay-5ezYbqJs9C6_j-rHrNMVJXftHOiHHe-1P7KFdKPE0aDE3313Esr991FY7rzMmCx9OH3q0F5rKlyVeQ-6owGinSVxiCl4-0Ij84BsjSRw HTTP/1.1" 200 196
+2019-10-24 16:16:43,537 root INFO baseapi:11 init base api interfase
+2019-10-24 16:16:43,537 root INFO depmanagment:12 Init department management API
+2019-10-24 16:16:43,545 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:16:43,865 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA&corpid=wwd5dcde75621431c4 HTTP/1.1" 200 277
+2019-10-24 16:16:43,890 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:16:44,305 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/department/create?access_token=bVzP1ro5omOIdoubsnNKAYkTtNj_iILOts7GdgNkCSVRhVHbRXjiHxmFq-1PHwoe1eZ1-qjqnOi4cQwoQkxeK3WIrTgj-gP2dpPbV4O-yopay-5ezYbqJs9C6_j-rHrNMVJXftHOiHHe-1P7KFdKPE0aDE3313Esr991FY7rzMmCx9OH3q0F5rKlyVeQ-6owGinSVxiCl4-0Ij84BsjSRw HTTP/1.1" 200 196
+2019-10-24 16:18:01,295 root INFO runner:19 Start to execute automation cases
+2019-10-24 16:18:01,886 root INFO membermanagment:12 Init member management API
+2019-10-24 16:18:01,886 root INFO baseapi:11 init base api interfase
+2019-10-24 16:18:01,887 root DEBUG baseapi:33 json_object===={'name': '张三', 'is_leader_in_dept': [1, 0], 'department': [4, 5], 'to_invite': True, 'telephone': '020-123456', 'gender': '1', 'alias': 'jackzhang', 'external_position': '高级产品经理', 'enable': 1, 'mobile': '15913215421', 'userid': 'zhangsan', 'address': '广州市海珠区新港中路', 'email': 'zhangsan@gzdev.com', 'order': [10, 40], 'position': '产品经理', 'avatar_mediaid': '2H7WcDi7LePkFScz--XPyfxVH2EmbIKzleDm_N8HV7uU'}
+2019-10-24 16:18:01,896 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:18:03,668 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA&corpid=wwd5dcde75621431c4 HTTP/1.1" 200 277
+2019-10-24 16:18:03,677 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:18:03,908 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?bVzP1ro5omOIdoubsnNKAYkTtNj_iILOts7GdgNkCSVRhVHbRXjiHxmFq-1PHwoe1eZ1-qjqnOi4cQwoQkxeK3WIrTgj-gP2dpPbV4O-yopay-5ezYbqJs9C6_j-rHrNMVJXftHOiHHe-1P7KFdKPE0aDE3313Esr991FY7rzMmCx9OH3q0F5rKlyVeQ-6owGinSVxiCl4-0Ij84BsjSRw HTTP/1.1" 200 198
+2019-10-24 16:19:12,506 root INFO runner:19 Start to execute automation cases
+2019-10-24 16:19:13,118 root INFO membermanagment:12 Init member management API
+2019-10-24 16:19:13,119 root INFO baseapi:11 init base api interfase
+2019-10-24 16:19:13,128 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:19:13,881 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA&corpid=wwd5dcde75621431c4 HTTP/1.1" 200 277
+2019-10-24 16:19:13,887 root DEBUG baseapi:33 json_object===={'position': '产品经理', 'department': [4, 5], 'alias': 'jackzhang', 'gender': '1', 'order': [10, 40], 'telephone': '020-123456', 'is_leader_in_dept': [1, 0], 'enable': 1, 'avatar_mediaid': '2H7WcDi7LePkFScz--XPyfxVH2EmbIKzleDm_N8HV7uU', 'name': '张三', 'to_invite': True, 'mobile': '15913215421', 'userid': 'zhangsan', 'external_position': '高级产品经理', 'email': 'zhangsan@gzdev.com', 'address': '广州市海珠区新港中路'}
+2019-10-24 16:19:13,908 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-24 16:19:14,543 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?access_token=bVzP1ro5omOIdoubsnNKAYkTtNj_iILOts7GdgNkCSVRhVHbRXjiHxmFq-1PHwoe1eZ1-qjqnOi4cQwoQkxeK3WIrTgj-gP2dpPbV4O-yopay-5ezYbqJs9C6_j-rHrNMVJXftHOiHHe-1P7KFdKPE0aDE3313Esr991FY7rzMmCx9OH3q0F5rKlyVeQ-6owGinSVxiCl4-0Ij84BsjSRw HTTP/1.1" 200 32
+2019-10-25 11:33:17,087 root INFO runner:19 Start to execute automation cases
+2019-10-25 11:33:17,846 root INFO membermanagment:12 Init member management API
+2019-10-25 11:33:17,846 root INFO baseapi:11 init base api interfase
+2019-10-25 11:33:17,857 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-25 11:33:18,605 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA&corpid=wwd5dcde75621431c4 HTTP/1.1" 200 277
+2019-10-25 11:33:18,614 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-25 11:33:18,894 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?access_token=9ils6Md5WbzyEGDs-3aClOQeOGak9fXxWnGvJA95dy1xdy9qCFqK_spLewLqai3o_xGJzroUmdbkq7foPRUBaPzKpWtgojLDaz_HQTwf388ZlCWc46-RYrsEwwisyQP9w8-iMTEnrpqpscpjL1aBcfB-iuUaEqBv4lRhDp2sa0zggafuixUDl5MXF811bvBxgwUrHyv4PV-2KGR00UN0HQ HTTP/1.1" 200 190
+2019-10-25 11:34:42,754 root INFO runner:19 Start to execute automation cases
+2019-10-25 11:34:43,709 root INFO membermanagment:12 Init member management API
+2019-10-25 11:34:43,709 root INFO baseapi:11 init base api interfase
+2019-10-25 11:36:56,894 root INFO runner:19 Start to execute automation cases
+2019-10-25 11:36:57,564 root INFO membermanagment:12 Init member management API
+2019-10-25 11:36:57,565 root INFO baseapi:11 init base api interfase
+2019-10-25 11:36:57,577 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-25 11:36:58,283 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-25 11:36:58,312 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-25 11:36:58,638 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?access_token=9ils6Md5WbzyEGDs-3aClOQeOGak9fXxWnGvJA95dy1xdy9qCFqK_spLewLqai3o_xGJzroUmdbkq7foPRUBaPzKpWtgojLDaz_HQTwf388ZlCWc46-RYrsEwwisyQP9w8-iMTEnrpqpscpjL1aBcfB-iuUaEqBv4lRhDp2sa0zggafuixUDl5MXF811bvBxgwUrHyv4PV-2KGR00UN0HQ HTTP/1.1" 200 52
+2019-10-25 14:41:11,610 root INFO runner:19 Start to execute automation cases
+2019-10-25 14:41:12,608 root INFO membermanagment:12 Init member management API
+2019-10-25 14:41:12,608 root INFO baseapi:11 init base api interfase
+2019-10-25 14:41:12,620 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-25 14:41:13,446 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-25 14:41:13,454 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-25 14:41:13,776 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?access_token=_G9MIKPDrN2aqit5473YawfbQdeYAohZVthQnjU4vwZaQLEI3uyQJ_-y3mBgtI8TyHDGBuEl0P3KKfcK-PEpQMMLBxA0mvyxJzyO_a-qtne_Jj80Fvb-uB2lJcNTfSBwglwUDr6F2z7zyiGpmj-B69nGyS5eGy9xAR6zU2JFJjPssW5B4f7fF6aVtM2TMr-BtM_W5fK7uYJKYYmaF5DzlQ HTTP/1.1" 200 52
+2019-10-25 14:41:58,469 root INFO runner:19 Start to execute automation cases
+2019-10-25 14:41:59,185 root INFO membermanagment:12 Init member management API
+2019-10-25 14:41:59,185 root INFO baseapi:11 init base api interfase
+2019-10-25 14:41:59,196 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-25 14:41:59,993 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA&corpid=wwd5dcde75621431c4 HTTP/1.1" 200 277
+2019-10-25 14:42:00,004 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-25 14:42:00,265 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?access_token=_G9MIKPDrN2aqit5473YawfbQdeYAohZVthQnjU4vwZaQLEI3uyQJ_-y3mBgtI8TyHDGBuEl0P3KKfcK-PEpQMMLBxA0mvyxJzyO_a-qtne_Jj80Fvb-uB2lJcNTfSBwglwUDr6F2z7zyiGpmj-B69nGyS5eGy9xAR6zU2JFJjPssW5B4f7fF6aVtM2TMr-BtM_W5fK7uYJKYYmaF5DzlQ HTTP/1.1" 200 192
+2019-10-25 14:42:22,465 root INFO runner:19 Start to execute automation cases
+2019-10-25 14:42:23,173 root INFO membermanagment:12 Init member management API
+2019-10-25 14:42:23,173 root INFO baseapi:11 init base api interfase
+2019-10-25 14:42:23,184 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-25 14:42:24,047 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-25 14:42:24,058 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-25 14:42:24,657 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?access_token=_G9MIKPDrN2aqit5473YawfbQdeYAohZVthQnjU4vwZaQLEI3uyQJ_-y3mBgtI8TyHDGBuEl0P3KKfcK-PEpQMMLBxA0mvyxJzyO_a-qtne_Jj80Fvb-uB2lJcNTfSBwglwUDr6F2z7zyiGpmj-B69nGyS5eGy9xAR6zU2JFJjPssW5B4f7fF6aVtM2TMr-BtM_W5fK7uYJKYYmaF5DzlQ HTTP/1.1" 200 32
+2019-10-29 14:04:54,013 root INFO runner:19 Start to execute automation cases
+2019-10-29 14:04:54,974 root INFO membermanagment:12 Init member management API
+2019-10-29 14:04:54,974 root INFO baseapi:11 init base api interfase
+2019-10-29 14:05:56,337 root INFO runner:19 Start to execute automation cases
+2019-10-29 14:05:57,152 root INFO membermanagment:12 Init member management API
+2019-10-29 14:05:57,152 root INFO baseapi:11 init base api interfase
+2019-10-29 14:05:57,153 root INFO toolskit:17 mobile_num===15871994744
+2019-10-29 14:05:57,154 root INFO toolskit:27 email====r8IJP@163.com
+2019-10-29 14:05:57,165 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-29 14:05:57,878 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-29 14:05:57,888 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-29 14:05:58,431 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?access_token=foYGq5BxtnqlFc6gXneiGPbiAZngRJNB2LYpAW_-9XTlhzfDQMiTiPPg-oB54ABYzlX73cvMhAmhQlqITrLVnrx8PgPDB7RJNBfLUlHLLQY6ETxA5n29VZkvZgwfWGc208cvYyUSE7D_HDVt6-3ZjabM8ECnUdDLIgpmWQlVeKLucC2UGulxC_3s2tDPem63ggY5PscFYdq32zSy9zO_RQ HTTP/1.1" 200 32
+2019-10-29 14:09:43,142 root INFO runner:19 Start to execute automation cases
+2019-10-29 14:09:43,999 root INFO membermanagment:12 Init member management API
+2019-10-29 14:09:43,999 root INFO baseapi:11 init base api interfase
+2019-10-29 14:09:44,000 root INFO toolskit:17 mobile_num===18503984549
+2019-10-29 14:09:44,001 root INFO toolskit:27 email====Rf6Sb@qq.com
+2019-10-29 14:09:44,017 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-29 14:09:44,775 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-29 14:09:44,786 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-29 14:09:45,356 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?access_token=foYGq5BxtnqlFc6gXneiGPbiAZngRJNB2LYpAW_-9XTlhzfDQMiTiPPg-oB54ABYzlX73cvMhAmhQlqITrLVnrx8PgPDB7RJNBfLUlHLLQY6ETxA5n29VZkvZgwfWGc208cvYyUSE7D_HDVt6-3ZjabM8ECnUdDLIgpmWQlVeKLucC2UGulxC_3s2tDPem63ggY5PscFYdq32zSy9zO_RQ HTTP/1.1" 200 32
+2019-10-29 14:10:39,429 root INFO runner:19 Start to execute automation cases
+2019-10-29 14:10:40,648 root INFO membermanagment:12 Init member management API
+2019-10-29 14:10:40,648 root INFO baseapi:11 init base api interfase
+2019-10-29 14:12:43,912 root INFO toolskit:17 mobile_num===15301008058
+2019-10-29 14:12:43,913 root INFO toolskit:27 email====vhKpu@163.com
+2019-10-29 14:12:43,937 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-29 14:12:44,914 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-29 14:12:44,931 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-29 14:12:45,499 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?access_token=foYGq5BxtnqlFc6gXneiGPbiAZngRJNB2LYpAW_-9XTlhzfDQMiTiPPg-oB54ABYzlX73cvMhAmhQlqITrLVnrx8PgPDB7RJNBfLUlHLLQY6ETxA5n29VZkvZgwfWGc208cvYyUSE7D_HDVt6-3ZjabM8ECnUdDLIgpmWQlVeKLucC2UGulxC_3s2tDPem63ggY5PscFYdq32zSy9zO_RQ HTTP/1.1" 200 32
+2019-10-29 14:15:52,493 root INFO runner:19 Start to execute automation cases
+2019-10-29 14:15:53,283 root INFO membermanagment:12 Init member management API
+2019-10-29 14:15:53,283 root INFO baseapi:11 init base api interfase
+2019-10-29 14:15:53,284 root INFO toolskit:17 mobile_num===15519251987
+2019-10-29 14:15:53,284 root INFO toolskit:27 email====XhiUM@189.com
+2019-10-29 14:15:53,294 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-29 14:15:54,004 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-29 14:15:54,013 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-29 14:15:54,545 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?access_token=foYGq5BxtnqlFc6gXneiGPbiAZngRJNB2LYpAW_-9XTlhzfDQMiTiPPg-oB54ABYzlX73cvMhAmhQlqITrLVnrx8PgPDB7RJNBfLUlHLLQY6ETxA5n29VZkvZgwfWGc208cvYyUSE7D_HDVt6-3ZjabM8ECnUdDLIgpmWQlVeKLucC2UGulxC_3s2tDPem63ggY5PscFYdq32zSy9zO_RQ HTTP/1.1" 200 32
+2019-10-29 14:20:22,571 root INFO runner:19 Start to execute automation cases
+2019-10-29 14:20:23,346 root INFO membermanagment:12 Init member management API
+2019-10-29 14:20:23,347 root INFO baseapi:11 init base api interfase
+2019-10-29 14:21:24,493 root INFO runner:19 Start to execute automation cases
+2019-10-29 14:21:25,257 root INFO membermanagment:12 Init member management API
+2019-10-29 14:21:25,257 root INFO baseapi:11 init base api interfase
+2019-10-29 14:21:25,258 root INFO toolskit:19 mobile_num===13679703251
+2019-10-29 14:21:25,258 root INFO toolskit:29 email====Fgl0R@qq.com
+2019-10-29 14:21:25,269 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-29 14:21:25,975 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-29 14:21:25,985 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-29 14:21:26,541 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?access_token=foYGq5BxtnqlFc6gXneiGPbiAZngRJNB2LYpAW_-9XTlhzfDQMiTiPPg-oB54ABYzlX73cvMhAmhQlqITrLVnrx8PgPDB7RJNBfLUlHLLQY6ETxA5n29VZkvZgwfWGc208cvYyUSE7D_HDVt6-3ZjabM8ECnUdDLIgpmWQlVeKLucC2UGulxC_3s2tDPem63ggY5PscFYdq32zSy9zO_RQ HTTP/1.1" 200 32
+2019-10-29 14:27:55,958 root INFO runner:19 Start to execute automation cases
+2019-10-29 14:27:56,830 root INFO membermanagment:12 Init member management API
+2019-10-29 14:27:56,831 root INFO baseapi:11 init base api interfase
+2019-10-29 14:27:56,832 root INFO toolskit:19 mobile_num===18899361156
+2019-10-29 14:27:56,833 root INFO toolskit:29 email====gZUFj@126.com
+2019-10-29 14:27:56,845 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-29 14:27:57,556 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA&corpid=wwd5dcde75621431c4 HTTP/1.1" 200 277
+2019-10-29 14:27:57,564 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-29 14:27:58,164 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?access_token=foYGq5BxtnqlFc6gXneiGPbiAZngRJNB2LYpAW_-9XTlhzfDQMiTiPPg-oB54ABYzlX73cvMhAmhQlqITrLVnrx8PgPDB7RJNBfLUlHLLQY6ETxA5n29VZkvZgwfWGc208cvYyUSE7D_HDVt6-3ZjabM8ECnUdDLIgpmWQlVeKLucC2UGulxC_3s2tDPem63ggY5PscFYdq32zSy9zO_RQ HTTP/1.1" 200 32
+2019-10-29 14:32:56,768 root INFO runner:19 Start to execute automation cases
+2019-10-29 14:32:57,563 root INFO membermanagment:12 Init member management API
+2019-10-29 14:32:57,563 root INFO baseapi:11 init base api interfase
+2019-10-29 14:32:57,565 root INFO toolskit:19 mobile_num===15375506461
+2019-10-29 14:32:57,565 root INFO toolskit:29 email====qFADB@189.com
+2019-10-29 14:32:57,580 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-29 14:32:58,353 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-29 14:32:58,361 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-29 14:32:58,870 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?access_token=foYGq5BxtnqlFc6gXneiGPbiAZngRJNB2LYpAW_-9XTlhzfDQMiTiPPg-oB54ABYzlX73cvMhAmhQlqITrLVnrx8PgPDB7RJNBfLUlHLLQY6ETxA5n29VZkvZgwfWGc208cvYyUSE7D_HDVt6-3ZjabM8ECnUdDLIgpmWQlVeKLucC2UGulxC_3s2tDPem63ggY5PscFYdq32zSy9zO_RQ HTTP/1.1" 200 32
+2019-10-30 14:38:01,354 root INFO runner:19 Start to execute automation cases
+2019-10-30 14:38:02,353 root INFO membermanagment:12 Init member management API
+2019-10-30 14:38:02,353 root INFO baseapi:11 init base api interfase
+2019-10-30 14:39:27,060 root INFO runner:19 Start to execute automation cases
+2019-10-30 14:39:28,300 root INFO membermanagment:12 Init member management API
+2019-10-30 14:39:28,300 root INFO baseapi:11 init base api interfase
+2019-10-30 14:41:50,298 root INFO runner:19 Start to execute automation cases
+2019-10-30 14:41:50,970 root INFO membermanagment:12 Init member management API
+2019-10-30 14:41:50,970 root INFO baseapi:11 init base api interfase
+2019-10-30 14:41:50,971 root INFO toolskit:19 mobile_num===18892263579
+2019-10-30 14:41:50,972 root INFO toolskit:29 email====5igie@126.com
+2019-10-30 14:41:50,982 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-30 14:41:51,737 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA&corpid=wwd5dcde75621431c4 HTTP/1.1" 200 277
+2019-10-30 14:41:51,762 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-30 14:41:52,369 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?access_token=WZlVsWglZHBAg2efMK_ErHw0tZ6Ouukga9Tsjz95f1aMjfEMiaoyGei1j73HzKY6q180u1xBw44n7ZAIUz2DZnv4v12x4_kDO-GpXFielrEj1D2-gB8RRn3WqWoOmIJvLajO_Hxtwf4y4SUrG2Y5YXnUgNnb5zmn1B83RuJetCq10Fi0ZsfoW2u49MiPR5xvNz3Mg5tPsqY61EgLZEC15A HTTP/1.1" 200 32
+2019-10-30 14:48:15,595 root INFO runner:19 Start to execute automation cases
+2019-10-30 14:48:16,359 root INFO membermanagment:12 Init member management API
+2019-10-30 14:48:16,359 root INFO baseapi:11 init base api interfase
+2019-10-30 14:50:54,725 root INFO runner:19 Start to execute automation cases
+2019-10-30 14:50:55,402 root INFO membermanagment:12 Init member management API
+2019-10-30 14:50:55,402 root INFO baseapi:11 init base api interfase
+2019-10-30 14:51:12,609 root INFO runner:19 Start to execute automation cases
+2019-10-30 14:51:13,289 root INFO membermanagment:12 Init member management API
+2019-10-30 14:51:13,289 root INFO baseapi:11 init base api interfase
+2019-10-30 14:51:13,290 root INFO membermanagment:41 {'alias': 'jackzhang', 'address': '广州市海珠区新港中路', 'external_position': '高级产品经理', 'userid': 'zhangshan', 'mobile': '18913215421', 'avatar_mediaid': '2H7WcDi7LePkFScz--XPyfxVH2EmbIKzleDm_N8HV7uU', 'name': '张山', 'order': [10, 40], 'gender': '1', 'department': [4, 5], 'position': '产品经理', 'enable': 1, 'telephone': '020-123456', 'to_invite': True, 'is_leader_in_dept': [1, 0], 'email': 'zhangshan@gzdev.com'}
+2019-10-30 14:51:13,290 root INFO membermanagment:41 {'errmsg': 'created', 'errcode': '0'}
+2019-10-30 14:51:13,291 root INFO toolskit:19 mobile_num===15591343700
+2019-10-30 14:51:13,291 root INFO toolskit:29 email====x4MTx@189.com
+2019-10-30 14:51:13,301 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-30 14:51:13,952 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-30 14:51:13,976 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-30 14:51:14,644 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?access_token=WZlVsWglZHBAg2efMK_ErHw0tZ6Ouukga9Tsjz95f1aMjfEMiaoyGei1j73HzKY6q180u1xBw44n7ZAIUz2DZnv4v12x4_kDO-GpXFielrEj1D2-gB8RRn3WqWoOmIJvLajO_Hxtwf4y4SUrG2Y5YXnUgNnb5zmn1B83RuJetCq10Fi0ZsfoW2u49MiPR5xvNz3Mg5tPsqY61EgLZEC15A HTTP/1.1" 200 32
+2019-10-30 14:53:15,774 root INFO runner:19 Start to execute automation cases
+2019-10-30 14:53:16,455 root INFO membermanagment:12 Init member management API
+2019-10-30 14:53:16,455 root INFO baseapi:11 init base api interfase
+2019-10-30 14:53:16,456 root INFO membermanagment:41 {'department': [4, 5], 'enable': 1, 'is_leader_in_dept': [1, 0], 'external_position': '高级产品经理', 'position': '产品经理', 'email': 'zhangshan@gzdev.com', 'name': '张山', 'userid': 'zhangshan', 'alias': 'jackzhang', 'order': [10, 40], 'address': '广州市海珠区新港中路', 'telephone': '020-123456', 'gender': '1', 'avatar_mediaid': '2H7WcDi7LePkFScz--XPyfxVH2EmbIKzleDm_N8HV7uU', 'to_invite': True, 'mobile': '18913215421'}
+2019-10-30 14:53:16,456 root INFO membermanagment:41 {'errcode': '0', 'errmsg': 'created'}
+2019-10-30 14:53:16,457 root INFO toolskit:19 mobile_num===18573478664
+2019-10-30 14:53:16,457 root INFO toolskit:29 email====72Ijr@163.com
+2019-10-30 14:53:16,467 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-30 14:53:17,163 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-30 14:53:17,171 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-30 14:53:17,692 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?access_token=WZlVsWglZHBAg2efMK_ErHw0tZ6Ouukga9Tsjz95f1aMjfEMiaoyGei1j73HzKY6q180u1xBw44n7ZAIUz2DZnv4v12x4_kDO-GpXFielrEj1D2-gB8RRn3WqWoOmIJvLajO_Hxtwf4y4SUrG2Y5YXnUgNnb5zmn1B83RuJetCq10Fi0ZsfoW2u49MiPR5xvNz3Mg5tPsqY61EgLZEC15A HTTP/1.1" 200 32
+2019-10-30 14:53:17,694 root INFO comparator:10 {'errcode': 0, 'errmsg': 'created'}
+2019-10-30 14:53:17,695 root INFO comparator:11 {'errcode': '0', 'errmsg': 'created'}
+2019-10-30 14:53:31,251 root INFO runner:19 Start to execute automation cases
+2019-10-30 14:53:31,984 root INFO membermanagment:12 Init member management API
+2019-10-30 14:53:31,985 root INFO baseapi:11 init base api interfase
+2019-10-30 14:53:31,986 root INFO membermanagment:41 {'enable': 1, 'avatar_mediaid': '2H7WcDi7LePkFScz--XPyfxVH2EmbIKzleDm_N8HV7uU', 'position': '产品经理', 'name': '张山', 'gender': '1', 'to_invite': True, 'external_position': '高级产品经理', 'alias': 'jackzhang', 'email': 'zhangshan@gzdev.com', 'address': '广州市海珠区新港中路', 'is_leader_in_dept': [1, 0], 'mobile': '18913215421', 'department': [4, 5], 'order': [10, 40], 'telephone': '020-123456', 'userid': 'zhangshan'}
+2019-10-30 14:53:31,986 root INFO membermanagment:41 {'errmsg': 'Created', 'errcode': '0'}
+2019-10-30 14:53:31,987 root INFO toolskit:19 mobile_num===13911062944
+2019-10-30 14:53:31,987 root INFO toolskit:29 email====Wleo5@189.com
+2019-10-30 14:53:31,999 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-30 14:53:32,683 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-30 14:53:32,692 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-30 14:53:33,329 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?access_token=WZlVsWglZHBAg2efMK_ErHw0tZ6Ouukga9Tsjz95f1aMjfEMiaoyGei1j73HzKY6q180u1xBw44n7ZAIUz2DZnv4v12x4_kDO-GpXFielrEj1D2-gB8RRn3WqWoOmIJvLajO_Hxtwf4y4SUrG2Y5YXnUgNnb5zmn1B83RuJetCq10Fi0ZsfoW2u49MiPR5xvNz3Mg5tPsqY61EgLZEC15A HTTP/1.1" 200 32
+2019-10-30 14:53:33,335 root INFO comparator:10 {'errmsg': 'created', 'errcode': 0}
+2019-10-30 14:53:33,335 root INFO comparator:11 {'errmsg': 'Created', 'errcode': '0'}
+2019-10-30 14:56:17,549 root INFO runner:19 Start to execute automation cases
+2019-10-30 14:56:18,234 root INFO membermanagment:12 Init member management API
+2019-10-30 14:56:18,234 root INFO baseapi:11 init base api interfase
+2019-10-30 14:56:18,235 root INFO membermanagment:41 {'address': '广州市海珠区新港中路', 'order': [10, 40], 'mobile': '18913215421', 'external_position': '高级产品经理', 'to_invite': True, 'is_leader_in_dept': [1, 0], 'enable': 1, 'avatar_mediaid': '2H7WcDi7LePkFScz--XPyfxVH2EmbIKzleDm_N8HV7uU', 'gender': '1', 'telephone': '020-123456', 'name': '张山', 'department': [4, 5], 'email': 'zhangshan@gzdev.com', 'alias': 'jackzhang', 'userid': 'zhangshan', 'position': '产品经理'}
+2019-10-30 14:56:18,235 root INFO membermanagment:41 {'errcode': '0', 'errmsg': 'Created'}
+2019-10-30 14:56:18,236 root INFO toolskit:19 mobile_num===15208974335
+2019-10-30 14:56:18,236 root INFO toolskit:29 email====LMMjy@189.com
+2019-10-30 14:56:18,246 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-30 14:56:18,938 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA&corpid=wwd5dcde75621431c4 HTTP/1.1" 200 277
+2019-10-30 14:56:18,948 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-30 14:56:19,468 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?access_token=WZlVsWglZHBAg2efMK_ErHw0tZ6Ouukga9Tsjz95f1aMjfEMiaoyGei1j73HzKY6q180u1xBw44n7ZAIUz2DZnv4v12x4_kDO-GpXFielrEj1D2-gB8RRn3WqWoOmIJvLajO_Hxtwf4y4SUrG2Y5YXnUgNnb5zmn1B83RuJetCq10Fi0ZsfoW2u49MiPR5xvNz3Mg5tPsqY61EgLZEC15A HTTP/1.1" 200 32
+
+
+
+
+
+2019-10-30 15:01:49,246 root INFO runner:19 Start to execute automation cases
+2019-10-30 15:01:49,911 root INFO membermanagment:12 Init member management API
+2019-10-30 15:01:49,911 root INFO baseapi:11 init base api interfase
+2019-10-30 15:01:49,912 root INFO membermanagment:41 {'department': [4, 5], 'is_leader_in_dept': [1, 0], 'external_position': '高级产品经理', 'email': 'zhangshan@gzdev.com', 'avatar_mediaid': '2H7WcDi7LePkFScz--XPyfxVH2EmbIKzleDm_N8HV7uU', 'to_invite': True, 'position': '产品经理', 'name': '张山', 'enable': 1, 'telephone': '020-123456', 'gender': '1', 'userid': 'zhangshan', 'address': '广州市海珠区新港中路', 'mobile': '18913215421', 'order': [10, 40], 'alias': 'jackzhang'}
+2019-10-30 15:01:49,913 root INFO membermanagment:41 {'errcode': '0', 'errmsg': 'Created10'}
+2019-10-30 15:01:49,913 root INFO toolskit:19 mobile_num===18870823807
+2019-10-30 15:01:49,913 root INFO toolskit:29 email====ZOo0A@189.com
+2019-10-30 15:01:49,922 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-30 15:01:50,582 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA&corpid=wwd5dcde75621431c4 HTTP/1.1" 200 277
+2019-10-30 15:01:50,610 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-30 15:01:51,180 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?access_token=WZlVsWglZHBAg2efMK_ErHw0tZ6Ouukga9Tsjz95f1aMjfEMiaoyGei1j73HzKY6q180u1xBw44n7ZAIUz2DZnv4v12x4_kDO-GpXFielrEj1D2-gB8RRn3WqWoOmIJvLajO_Hxtwf4y4SUrG2Y5YXnUgNnb5zmn1B83RuJetCq10Fi0ZsfoW2u49MiPR5xvNz3Mg5tPsqY61EgLZEC15A HTTP/1.1" 200 32
+2019-10-30 15:01:51,189 root INFO comparator:10 {'errcode': 0, 'errmsg': 'created'}
+2019-10-30 15:01:51,190 root INFO comparator:11 {'errcode': '0', 'errmsg': 'Created10'}
+2019-10-30 15:21:11,182 root INFO runner:19 Start to execute automation cases
+2019-10-30 15:21:11,941 root INFO membermanagment:12 Init member management API
+2019-10-30 15:21:11,941 root INFO baseapi:11 init base api interfase
+2019-10-30 15:21:11,942 root INFO membermanagment:41 {'enable': 1, 'telephone': '020-123456', 'alias': 'jackzhang', 'userid': 'zhangshan', 'gender': '1', 'name': '张山', 'email': 'zhangshan@gzdev.com', 'department': [4, 5], 'external_position': '高级产品经理', 'avatar_mediaid': '2H7WcDi7LePkFScz--XPyfxVH2EmbIKzleDm_N8HV7uU', 'address': '广州市海珠区新港中路', 'to_invite': True, 'order': [10, 40], 'position': '产品经理', 'is_leader_in_dept': [1, 0], 'mobile': '18913215421'}
+2019-10-30 15:21:11,943 root INFO membermanagment:41 {'errmsg': 'Created10', 'errcode': '0'}
+2019-10-30 15:21:11,943 root INFO toolskit:19 mobile_num===13535701091
+2019-10-30 15:21:11,943 root INFO toolskit:29 email====bgSEf@189.com
+2019-10-30 15:21:11,955 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-30 15:21:12,628 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-30 15:21:12,653 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-30 15:21:13,308 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?access_token=WZlVsWglZHBAg2efMK_ErHw0tZ6Ouukga9Tsjz95f1aMjfEMiaoyGei1j73HzKY6q180u1xBw44n7ZAIUz2DZnv4v12x4_kDO-GpXFielrEj1D2-gB8RRn3WqWoOmIJvLajO_Hxtwf4y4SUrG2Y5YXnUgNnb5zmn1B83RuJetCq10Fi0ZsfoW2u49MiPR5xvNz3Mg5tPsqY61EgLZEC15A HTTP/1.1" 200 32
+2019-10-30 15:22:58,449 root INFO runner:19 Start to execute automation cases
+2019-10-30 15:22:59,220 root INFO membermanagment:12 Init member management API
+2019-10-30 15:22:59,220 root INFO baseapi:11 init base api interfase
+2019-10-30 15:22:59,221 root INFO membermanagment:41 {'userid': 'zhangshan', 'alias': 'jackzhang', 'to_invite': True, 'external_position': '高级产品经理', 'telephone': '020-123456', 'avatar_mediaid': '2H7WcDi7LePkFScz--XPyfxVH2EmbIKzleDm_N8HV7uU', 'order': [10, 40], 'is_leader_in_dept': [1, 0], 'enable': 1, 'gender': '1', 'address': '广州市海珠区新港中路', 'department': [4, 5], 'mobile': '18913215421', 'position': '产品经理', 'email': 'zhangshan@gzdev.com', 'name': '张山'}
+2019-10-30 15:22:59,222 root INFO membermanagment:41 {'errcode': '0', 'errmsg': 'Created10'}
+2019-10-30 15:22:59,222 root INFO toolskit:19 mobile_num===13625016647
+2019-10-30 15:22:59,222 root INFO toolskit:29 email====xtC4B@189.com
+2019-10-30 15:22:59,232 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-30 15:23:00,005 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-30 15:23:00,017 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-30 15:23:00,734 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?access_token=WZlVsWglZHBAg2efMK_ErHw0tZ6Ouukga9Tsjz95f1aMjfEMiaoyGei1j73HzKY6q180u1xBw44n7ZAIUz2DZnv4v12x4_kDO-GpXFielrEj1D2-gB8RRn3WqWoOmIJvLajO_Hxtwf4y4SUrG2Y5YXnUgNnb5zmn1B83RuJetCq10Fi0ZsfoW2u49MiPR5xvNz3Mg5tPsqY61EgLZEC15A HTTP/1.1" 200 32
+2019-10-30 15:23:00,742 root INFO comparator:10 live_json  {'errcode': 0, 'errmsg': 'created'}
+2019-10-30 15:23:00,742 root INFO comparator:11 std_json  {'errcode': '0', 'errmsg': 'Created10'}
+2019-10-30 15:24:52,450 root INFO runner:19 Start to execute automation cases
+2019-10-30 15:24:53,232 root INFO membermanagment:12 Init member management API
+2019-10-30 15:24:53,233 root INFO baseapi:11 init base api interfase
+2019-10-30 15:24:53,233 root INFO membermanagment:41 {'external_position': '高级产品经理', 'mobile': '18913215421', 'enable': 1, 'avatar_mediaid': '2H7WcDi7LePkFScz--XPyfxVH2EmbIKzleDm_N8HV7uU', 'gender': '1', 'department': [4, 5], 'userid': 'zhangshan', 'alias': 'jackzhang', 'email': 'zhangshan@gzdev.com', 'position': '产品经理', 'name': '张山', 'to_invite': True, 'telephone': '020-123456', 'address': '广州市海珠区新港中路', 'is_leader_in_dept': [1, 0], 'order': [10, 40]}
+2019-10-30 15:24:53,234 root INFO membermanagment:41 {'errmsg': 'Created10', 'errcode': '0'}
+2019-10-30 15:24:53,234 root INFO toolskit:19 mobile_num===15840533808
+2019-10-30 15:24:53,234 root INFO toolskit:29 email====GA0zu@126.com
+2019-10-30 15:24:53,244 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-30 15:24:53,983 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-30 15:24:53,990 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-30 15:24:54,482 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?access_token=WZlVsWglZHBAg2efMK_ErHw0tZ6Ouukga9Tsjz95f1aMjfEMiaoyGei1j73HzKY6q180u1xBw44n7ZAIUz2DZnv4v12x4_kDO-GpXFielrEj1D2-gB8RRn3WqWoOmIJvLajO_Hxtwf4y4SUrG2Y5YXnUgNnb5zmn1B83RuJetCq10Fi0ZsfoW2u49MiPR5xvNz3Mg5tPsqY61EgLZEC15A HTTP/1.1" 200 32
+2019-10-30 15:24:54,484 root INFO comparator:10 live_json  {'errmsg': 'created', 'errcode': 0}
+2019-10-30 15:24:54,484 root INFO comparator:11 std_json  {'errmsg': 'Created10', 'errcode': '0'}
+2019-10-30 15:28:28,122 root INFO runner:19 Start to execute automation cases
+2019-10-30 15:28:28,812 root INFO membermanagment:12 Init member management API
+2019-10-30 15:28:28,812 root INFO baseapi:11 init base api interfase
+2019-10-30 15:28:28,813 root INFO membermanagment:41 {'userid': 'zhangshan', 'enable': 1, 'avatar_mediaid': '2H7WcDi7LePkFScz--XPyfxVH2EmbIKzleDm_N8HV7uU', 'alias': 'jackzhang', 'department': [4, 5], 'address': '广州市海珠区新港中路', 'order': [10, 40], 'telephone': '020-123456', 'to_invite': True, 'email': 'zhangshan@gzdev.com', 'name': '张山', 'external_position': '高级产品经理', 'is_leader_in_dept': [1, 0], 'mobile': '18913215421', 'position': '产品经理', 'gender': '1'}
+2019-10-30 15:28:28,814 root INFO membermanagment:41 {'errmsg': 'Created10', 'errcode': '0'}
+2019-10-30 15:28:28,814 root INFO toolskit:19 mobile_num===18810029615
+2019-10-30 15:28:28,814 root INFO toolskit:29 email====btOuZ@qq.com
+2019-10-30 15:28:28,826 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-30 15:28:29,760 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "GET /cgi-bin/gettoken?corpid=wwd5dcde75621431c4&corpsecret=Z_MKBVtE1ynvCs9XGJSu1Cu6qbU1tmiLFlg8aN4W7FA HTTP/1.1" 200 277
+2019-10-30 15:28:29,768 urllib3.connectionpool DEBUG connectionpool:959 Starting new HTTPS connection (1): qyapi.weixin.qq.com:443
+2019-10-30 15:28:30,423 urllib3.connectionpool DEBUG connectionpool:437 https://qyapi.weixin.qq.com:443 "POST /cgi-bin/user/create?access_token=WZlVsWglZHBAg2efMK_ErHw0tZ6Ouukga9Tsjz95f1aMjfEMiaoyGei1j73HzKY6q180u1xBw44n7ZAIUz2DZnv4v12x4_kDO-GpXFielrEj1D2-gB8RRn3WqWoOmIJvLajO_Hxtwf4y4SUrG2Y5YXnUgNnb5zmn1B83RuJetCq10Fi0ZsfoW2u49MiPR5xvNz3Mg5tPsqY61EgLZEC15A HTTP/1.1" 200 32
+2019-10-30 15:28:30,427 root INFO comparator:10 live_json  {'errmsg': 'created', 'errcode': 0}
+2019-10-30 15:28:30,427 root INFO comparator:11 std_json  {'errmsg': 'Created10', 'errcode': '0'}
