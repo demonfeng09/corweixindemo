@@ -38,7 +38,7 @@ class BaseAPI:
             return json_object
 
     '''
-        一个文件里有多个测试数据---member2.json/member3.json
+        一个文件里有多个测试数据---member2.json/member3.json 位置放的不合理
     '''
     def get_multi_member(self,filename,testcase_name):
         with codecs.open(filename,'r',encoding='utf8') as f:
